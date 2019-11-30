@@ -1,0 +1,14 @@
+th {
+    padding: 15px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+th {
+    background: #6c7ae0;
+    text-align: left;
+    font-weight: normal;
+    font-size: 1.1rem;
+    color: white;
+}
